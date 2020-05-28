@@ -1,2 +1,2 @@
-# C-19-Project
-Hosting a game on github
+# p5.play-boilerplate
+Boiler plate for p5.play
